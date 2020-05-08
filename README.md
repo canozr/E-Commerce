@@ -1,1 +1,1 @@
-# E-ticaret-script
+
